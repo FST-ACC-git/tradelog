@@ -1,0 +1,18 @@
+{
+  "name": "TradeLog — Trading Journal",
+  "short_name": "TradeLog",
+  "description": "Personal stock trading journal with P&L tracking, charts, and CSV import",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
